@@ -1,6 +1,7 @@
 #import <stdio.h>
 #import <stdlib.h>
 #import <string.h>
+#import <time.h>
 #import <sys/time.h>
 
 typedef struct node {
